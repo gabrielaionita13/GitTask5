@@ -3,4 +3,10 @@ public class Main {
 
         System.out.println("Hello");
     }
+    static void myMethod() {
+        System.out.println("Hello World!");
+    }
+    public void myPublicMethod() {
+        System.out.println("Public methods");
+    }
 }
