@@ -11,4 +11,10 @@ public class Main {
     public void speed(int maxSpeed) {
         System.out.println("Max speed is: " + maxSpeed);
     }
+    static void myMethod() {
+        System.out.println("Hello World!");
+    }
+    public void myPublicMethod() {
+        System.out.println("Public methods");
+    }
 }
