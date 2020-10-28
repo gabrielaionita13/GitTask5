@@ -2,6 +2,13 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("Hello");
+    }
+    public void cat(int Miau) {
+        System.out.println("My cat is: " + Miau);
+    }
+    public void dog(int Ham) {
+        System.out.println("My dog is: " + Ham);
+        System.out.println("Hello");
         System.out.println("Hi back");
     }
     public void fullThrottle() {
